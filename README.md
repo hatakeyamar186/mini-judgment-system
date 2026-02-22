@@ -27,6 +27,6 @@
 ```sh
 chmod +x judge.sh
 
-### ACの確認
+### 2) ACの確認
 python3 main.py < input.txt > output.txt
 ./judge.sh
