@@ -24,9 +24,9 @@
 
 ### 1) 実行権限を付与（初回のみ）
 
-```sh
 chmod +x judge.sh
 
 ### 2) ACの確認
 python3 main.py < input.txt > output.txt
-./judge.sh
+
+最後に`./judge.sh`を実行する
